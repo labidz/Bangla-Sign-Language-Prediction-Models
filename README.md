@@ -1,3 +1,3 @@
 # Bangla-Sign-Language-Prediction-Models
 Dataset Link: 
-https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1PcxXANzTYqqhqhsv6s4s13SGX4xHKlE5%2Fview%3Fusp%3Ddrivesdk%26fbclid%3DIwAR2KpNn_s7EWLpiL1vBlCAc9RXYAfzcGeiM6lDGSoY2uV7wFXaE61giE-1M&h=AT0CZHbySWXWBzekqTnkIqdUDXMGzSPOGAXK00X_AZVLV9ft-qW59_Z8BsxqfSyXVWkkW9bhxY-inPm6YKuSEiOKwhETuQ09quBRtjhsIn_L2PaX8hAr8H9FMGL7t-3BmsuYrA
+https://drive.google.com/file/d/1PcxXANzTYqqhqhsv6s4s13SGX4xHKlE5/view?fbclid=IwAR2KpNn_s7EWLpiL1vBlCAc9RXYAfzcGeiM6lDGSoY2uV7wFXaE61giE-1M
